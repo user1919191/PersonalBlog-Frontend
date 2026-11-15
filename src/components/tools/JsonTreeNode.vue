@@ -95,6 +95,7 @@ const valueClass = computed(() => {
 
 <style scoped>
 .json-node {
+  --depth-color: #2563eb;
   color: #0f172a;
   font-family: 'Consolas', 'Monaco', monospace;
   font-size: 13px;
